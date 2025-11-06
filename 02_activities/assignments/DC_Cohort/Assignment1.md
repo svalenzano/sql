@@ -106,6 +106,7 @@ Please do not pick the exact same tables that I have already diagrammed. For exa
 	- <img src="./images/01_farmers_market_conceptual_model.png" width="600">
 - The column names can be found in a few spots (DB Schema window in the bottom right, the Database Structure tab in the main window by expanding each table entry, at the top of the Browse Data tab in the main window)
 
+
 ***
 
 ## Section 2:
@@ -205,5 +206,10 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+This article (Quadri, 2021) highlights the important ethical and social implications that arise from the ways we design and populate databases. The authors main argument is that a database is never neutral; it is based on the data we choose to include. The example she discusses in Pakistan is an extreme but powerful example of how the decisions we make when creating a database (specifically to characterize and label people), can have severe consequences.
+
+Although the relationship with my own research is less political, I can relate this to my work at the Rotman Research Institute at Baycrest Hospital. Our large participant database includes demographic and health information for both younger and older adults. We use this database to screen our participants for eligibility and contextualize our results. The data we collect is all we have to characterize our participants and interpret their patterns in behaviour and cognition. Perhaps there is important data we are missing, such as certain social contexts that better explain their cognitive and behavioural profile. The design of our data collection inevitably shapes our interpretation of results
+
+However, is it possible that we can also be including too much information (e.g., if they drink alcohol or smoke) in this screening procedure. We do adhere to ethical guidelines that allow participants to skip questions they are uncomfortable answering; are there certain groups of people that would be excluded because of this? Once in the database, researchers have access to the entire profile and select who they would like to invite to participate in their project. It is important to consider how our current practices of adding participants to the database may inherently include specific types of people in our research studies while excluding others. 
+
 ```
