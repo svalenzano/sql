@@ -183,5 +183,12 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+This article provided a new perspective for how human large language models (LLMs) actually are. It’s easy to think of AI as just math and code that provides some objective output, however, this artcile highlights that these systems are built on human choices and language. In particular, the training of LLMs, and the data or language they use, inform the output we get.
+
+This perspective feels particularly relevant to my own research in autobiographical memory, where I use LLMs, specifically the Universal Sentence Encoder (USE), to analyze narrative data and quantify schematic knowledge. On a technical level, the USE allows me to capture meaning beyond individual words and get at deeper semantic structure in people’s descriptions of past and imagined future events. It’s a powerful tool for understanding how people organize and express their experiences. The current article was an important reminder that the “understanding” coming from these models is not neutral. The patterns they detect and represent are shaped by the data they were trained on, which inevitably contains social, cultural, and linguistic biases.
+
+In my case, that means when I use a model like USE to measure the similarity between a two pieces of text, or quantification of different emotions or meaning, that representation is influenced by the kinds of language it has seen before that may provide one specific perspective, or ommit other relationships not available to the model. This is important to keep in mind when interpreting my findings. It’s not enough to treat these tools as black boxes that produce numbers, but should be understanding how they were built and what assumptions are embedded in them is just as important as the analysis itself.
+
+I also appreciated the authors point about the hidden human labour behind AI systems. It’s easy to forget that there are people who spend time labeling datasets, potentially moderating toxic content, and refining outputs to make these models function smoothly. Recognizing that human labour involved adds an ethical dimension to using these tools responsibly in research. It’s a reminder that the technology I rely on is a computational resource and the product of real people’s work and decision-making.
 ```
+
